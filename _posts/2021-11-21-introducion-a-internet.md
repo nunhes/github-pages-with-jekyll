@@ -1,3 +1,9 @@
+---
+title: "Introdución a Internet"
+date: 2021-11-21
+---
+
+
 # Que é Internet?
 Internet é unha rede mundial formada por dispositivos que se comunican entre si ó traveso dun idioma común (protocolo) e que ten como misión principal o intercambio de información.
 
